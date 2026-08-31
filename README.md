@@ -1,51 +1,71 @@
-<h1 align="center">Hi 👋, I'm YOUR_NAME</h1>
+<h1 align="center">Hi 👋, I'm Nitin Singh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Building+cool+stuff+with+code;Always+learning+something+new;Welcome+to+my+profile+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=B.Tech+CSE+%40+GLA+University;Full-Stack+MERN+Developer;DevOps+%26+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;AWS+Certified+%7C+Docker+%7C+Kubernetes+%7C+Jenkins;Solving+DSA+on+LeetCode+%26+HackerRank" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=YOUR_USERNAME&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=Nitinsingh34-eg&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/nitin-singh-848a13334"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://portfolio-eta-brown-gvn370g86r.vercel.app/overview.html"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="mailto:rush2nitin1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://leetcode.com/YOUR_LEETCODE_ID"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://hackerrank.com/YOUR_HACKERRANK_ID"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nitinsingh34-eg&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Nitinsingh34-eg?label=Followers&style=for-the-badge&color=8A2BE2" />
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🎓 Computer Science student, exploring DSA, DBMS, Cloud & Cybersecurity
-- 🔭 Currently working on cool side projects
-- 🌱 Learning new frameworks & tools every day
-- 💬 Ask me about Java, Python, Web Dev
-- ⚡ Fun fact: I debug with `print()` before I debug with logic 😄
+
+- 🎓 B.Tech in Computer Science & Engineering, **GLA University, Mathura** (2024 – Present)
+- ☁️ **AWS Certified** | Full-stack **MERN** developer
+- 🐳 DevOps & Cloud: Docker, Kubernetes, Jenkins, CI/CD pipelines, AWS EC2, S3, IAM
+- 🌱 Strong foundation in **Java, Python & DSA** — practicing consistently on LeetCode & HackerRank
+- 🛠️ Building scalable, production-ready, containerized applications
+- 💬 Ask me about MERN, CI/CD, Docker/Kubernetes, or AWS deployments
+- ⚡ Fun fact: `git push` and pray is a valid CI/CD strategy sometimes 😄
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,cpp,js,html,css,react,nodejs,mysql,mongodb,git,github,linux,vscode,docker&perline=8" />
+  <img src="https://skillicons.dev/icons?i=java,py,js,html,css,react,nodejs,express,mongodb,mysql,docker,kubernetes,jenkins,aws,git,github,linux,vscode,postman&perline=9" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nitinsingh34-eg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitinsingh34-eg&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitinsingh34-eg&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nitinsingh34-eg&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nitinsingh34-eg&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nitinsingh34-eg&theme=tokyonight&utcOffset=5.5" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nitinsingh34-eg&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nitinsingh34-eg&theme=tokyonight" />
 </p>
 
 ---
@@ -53,24 +73,51 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Nitinsingh34-eg&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
 </p>
+
+---
+
+### 💼 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/Nitinsingh34-eg"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nitinsingh34-eg&repo=YOUR_MERN_CICD_REPO&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/Nitinsingh34-eg"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nitinsingh34-eg&repo=YOUR_AWS_PORTAL_REPO&theme=tokyonight&hide_border=true" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/Nitinsingh34-eg"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nitinsingh34-eg&repo=YOUR_PORTFOLIO_REPO&theme=tokyonight&hide_border=true" /></a>
+</p>
+
+**🔹 MERN Stack CI/CD Application (DevOps + Cloud)**
+Containerized MERN app with automated CI/CD via Jenkins, Docker & AWS EC2 — build/test/deploy triggered on every push, deployed on a Kubernetes cluster.
+
+**🔹 Assignment Submission Portal (AWS Cloud)**
+Cloud-based portal with secure file uploads via S3, user authentication, and scalable backend services; hosted on EC2 with IAM-managed access.
+
+**🔹 Personal Portfolio Website (React.js)**
+Responsive, mobile-first portfolio built with React, HTML, CSS & JavaScript to showcase projects and skills.
+
+> Replace `YOUR_MERN_CICD_REPO`, `YOUR_AWS_PORTAL_REPO`, `YOUR_PORTFOLIO_REPO` with your actual repo names for the pinned project cards to render.
 
 ---
 
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Nitinsingh34-eg/Nitinsingh34-eg/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-> ⚠️ Snake animation setup below (needs a one-time GitHub Actions step).
+> ⚠️ Needs a one-time GitHub Actions step — ask me and I'll generate the workflow file.
 
 ---
 
+### 📈 Deep Metrics (via lowlighter/metrics)
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00F7FF&style=flat" />
+  <img src="https://metrics.lecoq.io/Nitinsingh34-eg?template=classic&base=header,activity,community,repositories,metadata" />
 </p>
+
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=100&section=footer" />
