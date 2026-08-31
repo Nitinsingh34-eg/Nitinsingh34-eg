@@ -111,14 +111,6 @@ Responsive, mobile-first portfolio built with React, HTML, CSS & JavaScript to s
 
 ---
 
-### 📈 Deep Metrics (via lowlighter/metrics)
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/Nitinsingh34-eg?template=classic&base=header,activity,community,repositories,metadata" />
-</p>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=100&section=footer" />
 </p>
